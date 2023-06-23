@@ -7,11 +7,11 @@ This Python script captures video from a camera using the OpenCV library and dis
 To set up the Camera Grabber script, follow these steps:
 
 1. Install Python 3 on your system if it is not already installed. You can download Python from the official website: https://www.python.org/downloads/
-2. Install OpenCV for Python using pip. You can do this by running the following command in your terminal:
+2. Install OpenCV for Python using pip. You can do this by running the following command in your terminal:\n
 `pip3 install opencv-python`
-3. Clone this repository to your local machine using the following command:
+3. Clone this repository to your local machine using the following command:\n
 `git clone https://github.com/Francesco-cpu/CameraGrabber.git`
-4. Navigate to the directory where you cloned the repository using the following command:
+4. Navigate to the directory where you cloned the repository using the following command:\n
 `cd CameraGrabber`
 
 ## Usage
