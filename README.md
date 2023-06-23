@@ -20,7 +20,7 @@ You can run the script from the command line using the following command:
 `python3 cameraGrabber.py -c <camera_index>`
 
 
-Replace `<camera_index>` with the name of the camera you want to use (usually /dev/video0 for the default camera).
+Replace `<camera_index>` with the name of the camera you want to use (usually `/dev/video0` for the default camera).
 
 ## Contributing
 
